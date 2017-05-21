@@ -1,9 +1,3 @@
-# -*- encoding: utf-8 -*-
-"""
-Python Aplication Template
-Licence: GPLv3
-"""
-
 from flask import Flask
 from  flask.ext.bootstrap import Bootstrap
 from flask.ext.sqlalchemy import SQLAlchemy
